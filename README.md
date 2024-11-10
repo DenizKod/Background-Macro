@@ -1,8 +1,8 @@
 # Background-Macro
 
-MERHABA, SİZE OLABİLDİĞİNCE PROGRAMIN GİZLİ ÖZELLİKLERİNİ VE KULLANIMINI ANLATACAĞIM
+![image](https://github.com/user-attachments/assets/393adb0c-aff3-437b-b29e-e1ab9b70282a)
 
-# UYARI !
+# UYARI
 
 <p> Sakın ama sakın VALORANT - LOL gibi oyunlarda bu hileyi kullanmayın. hatta hile açıkken bu iki oyuna giriş bile yapmayın. kalıcı olarak yasaklanam ihtimaliniz var !
 
@@ -10,44 +10,37 @@ MERHABA, SİZE OLABİLDİĞİNCE PROGRAMIN GİZLİ ÖZELLİKLERİNİ VE KULLANIM
 
 <p> Ben Macroyu Minecraft'ın online serverları için için tasarladım. Baya temiz çalışıyor.
 
-
-# ARAYÜZ
-![image](https://github.com/user-attachments/assets/393adb0c-aff3-437b-b29e-e1ab9b70282a)
-
-
-
-# PROGRAM NE İŞE YARIYOR / DİĞER MACROLARDAN FARKI NEDİR?
+# DİĞER MACROLARDAN FARKI NEDİR?
 <p> Bu macro diğer macro programlarından farklı olarak tuş ve mouse komutlarını direkt olarak hedef oyuna veya programa gönderir. Örneğin macro aktifken ön planda herhangi bir işle ilgilenmeniz arka plandaki oyuna tuş komutları gönderen macronun çalışmasına engel olmayacaktır. aynı şekilde macronun aktif olarak çalışıyor olmasıda sizin önplanda işler yapmanıza engel olmayacaktır.
 
 # MACRO OLUŞTURMA VE KAYDETME
 
-### ADIM 1
+#### ADIM 1
 
 <p> KENDİ MACRONU YARAT butonuna tıkla
 
 ![image](https://github.com/user-attachments/assets/b7f7171b-50be-48ba-b07e-0b4682bd69ea)
 
-### ADIM 2 (BURAYI OKU)
+#### ADIM 2 (BURAYI OKU)
 
 ![image](https://github.com/user-attachments/assets/a4b00502-851b-4f91-a64e-a82b62c82793)
 
-<p> Bu görselde mouse tıklamalarının 0 ms olmasının sebebi var
-<p> Eğer mouse tıklamasının yada bir tuşun diğer tuşlar hala aktif olarak basmaya devam ediyorken baştan sona kadar basılı kalmasını istiyorsanız başlangıçtaki tuşu ve sondaki basmayı bırak kısmını 0 ms yapmanız gerek
+#### NEDEN 0 MS
+<p> Diyelim ki A tuşuna 60 saniye boyunca basılı tutsun istiyorsunuz. ancak aynı anda mouse'un sol tuşuna da basılı tutsun istiyorsunuz o 60 saniye boyunca. işte bu işe yarıyor.
 
-### ADIM 3
+#### MACROLAR NEREYE KAYDOLUYOR?
 
-<p> Bir macroyu kaydettiğinizde Background.exe hangi dizinde bulunuyorsa o dizine saved_macros adında json dosyası oluşturur. ve bütün macroları artık aynı json'a kaydeder.
+<p> Bir macroyu kaydettiğinizde Background.exe hangi dizinde bulunuyorsa o dizine saved_macros adında json dosyası oluşturur. ve bütün macroları aynı json dosyasına içine alt alta kaydeder. dilerseniz Json'u metin dosyası olarak açıp oradan da düzenleme yapabilirsiniz
 
 ![image](https://github.com/user-attachments/assets/4caf164d-d0c1-4155-b17c-d5b80ded059c)
 
+# MACROYU BAŞLATMA
 
-### ADIM 4
-
-<p> Boşluğa sağ tıkla ve oluşturduğunuz Json dosyasını bulup içe aktarın.
+#### KAYITLI MACROLAR kısmında Boşluğa sağ tıkla
 
 ![image](https://github.com/user-attachments/assets/0f468420-65d6-4cbf-a1d3-0035df1632e1)
 
-Aktif et : mevcut kaydedilmiş macroyu aktif eder ve kullanıma hazır hale getirir.
+#### Kaydettiğiniz Macro Json'unu seçin
 
 ![image](https://github.com/user-attachments/assets/5f7a25c9-d061-42ee-b89d-09a12b426014)
 
