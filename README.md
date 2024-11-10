@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/393adb0c-aff3-437b-b29e-e1ab9b70282a)
 
+#İNDİR
+https://www.mediafire.com/file/aqk85o5m8epeb0a/Background_Macroo.zip/file
+
 # UYARI
 
 <p> Sakın ama sakın VALORANT - LOL gibi oyunlarda bu hileyi kullanmayın. hatta hile açıkken bu iki oyuna giriş bile yapmayın. kalıcı olarak yasaklanam ihtimaliniz var !
