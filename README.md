@@ -16,6 +16,14 @@ https://www.mediafire.com/file/aqk85o5m8epeb0a/Background_Macroo.zip/file
 # DİĞER MACROLARDAN FARKI NEDİR?
 <p> Bu macro diğer macro programlarından farklı olarak tuş ve mouse komutlarını direkt olarak hedef oyuna veya programa gönderir. Örneğin macro aktifken ön planda herhangi bir işle ilgilenmeniz arka plandaki oyuna tuş komutları gönderen macronun çalışmasına engel olmayacaktır. aynı şekilde macronun aktif olarak çalışıyor olmasıda sizin önplanda işler yapmanıza engel olmayacaktır.
 
+# BUTONLAR
+
+<p> Macro Başlat : Macro’yu başlatmak için kullanılır.
+<p> Pause : Macro'yu geçici olarak durdurur. Duraklatma esnasında hangi tuş ve saniyede durduysa, devam ettirildiğinde tam olarak aynı tuş ve saniyeden devam eder.
+<p> Macro Sıfırla : Aktif Macro'nun tuş ve saniyelerini sıfırlar.
+<p> Kayıtlı Macrolar : Kayıtlı macrolar arasında kolayca geçiş yapabilirsiniz.
+<p> Kendi Macronu Yarat : Kendi özel macrolarınızı oluşturabilirsiniz. Fare ve klavye tuşları ile uyumludur.
+
 # MACRO OLUŞTURMA VE KAYDETME
 
 #### ADIM 1
