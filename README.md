@@ -37,7 +37,7 @@ https://www.mediafire.com/file/aqk85o5m8epeb0a/Background_Macroo.zip/file
 ![image](https://github.com/user-attachments/assets/a4b00502-851b-4f91-a64e-a82b62c82793)
 
 #### NEDEN 0 MS
-<p> Diyelim ki A tuşuna 60 saniye boyunca basılı tutsun istiyorsunuz. ancak aynı anda mouse'un sol tuşuna da basılı tutsun istiyorsunuz o 60 saniye boyunca. işte bu işe yarıyor.
+<p> Diyelim ki A tuşuna 60 saniye boyunca basılı tutsun istiyorsunuz. ancak aynı anda mouse'un sol tuşuna da basılı tutsun istiyorsunuz. işte bu işe yarıyor.
 
 #### MACROLAR NEREYE KAYDOLUYOR?
 
