@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/393adb0c-aff3-437b-b29e-e1ab9b70282a)
 
-#İNDİR
+# İNDİR
 https://www.mediafire.com/file/aqk85o5m8epeb0a/Background_Macroo.zip/file
 
 # UYARI
